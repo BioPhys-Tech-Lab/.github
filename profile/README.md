@@ -32,6 +32,6 @@
 
 ### 🤝 Colaboración y Contacto
 ¿Te interesa la investigación interdisciplinaria? 
-- 📩 **Email:** [tu-correo@ejemplo.com]
-- 🌐 **Website:** [Link a tu sitio o LinkedIn]
+- 📩 **Email:** biophys.tech@hotmail.com
+- 🌐 **Website:** https://www.linkedin.com/company/biophys-tech-lab/
 - 📍 **Ubicación:** Ecuador
